@@ -1,0 +1,8 @@
+
+*requisitos*
+
+O usuario e o motorista devera criar uma conta com os dados pessoais;
+O sistema precisa identificar o usuario;
+Deve calcular o preço que sera cobrado de acordo com a distancia;
+Localizar o carro que esteja mais proximo ao usuario;
+No final da corrida, deverá solicitar uma nota de atendimento ao usuário.
